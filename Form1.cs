@@ -27,6 +27,9 @@ namespace Memoria
             //adicionando minha paleta de cores a lista
             PreencherCores();
             //adiconando os botoes e os botoes de cores que serão referenciadas
+            // a lista de Botoes será preenchida com a cor branca posteriormente
+            // dando a impressão que está virada.
+            // a lista GravarCorNaLista terá contida as cores sorteadas.
             foreach(var botao in  this.Controls)
             {
                 if(botao is Button)
@@ -224,7 +227,7 @@ namespace Memoria
                 timer1.Enabled = false;
   
         }
-
+        //eventos cliques do botao mapeia os botoes da lista de acordo com o indice.
         private void button1_Click(object sender, EventArgs e)
         {
             ClickBotao(0, button1);
@@ -323,6 +326,7 @@ namespace Memoria
         {
             ClickBotao(19, button20);
         }
+        //mapeamento de forma generica.
         private void ClickBotao(int index, Button botao)
         {
             Variaveis.VezesClicado++;
