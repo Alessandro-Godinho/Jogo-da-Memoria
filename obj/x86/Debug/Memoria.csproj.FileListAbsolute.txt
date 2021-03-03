@@ -1,0 +1,43 @@
+c:\users\doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\obj\x86\Debug\Memoria.Form1.resources
+c:\users\doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\obj\x86\Debug\Memoria.Properties.Resources.resources
+c:\users\doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\bin\Debug\Memoria.exe
+c:\users\doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\bin\Debug\Memoria.pdb
+c:\users\doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\obj\x86\Debug\Memoria.exe
+c:\users\doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\obj\x86\Debug\Memoria.pdb
+C:\Users\Doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\obj\x86\Debug\Memoria.Recorde.resources
+C:\Users\Doctus_04\documents\visual studio 2010\Projects\Memoria\Memoria\obj\x86\Debug\Memoria.NomeJogador.resources
+E:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.exe
+E:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.pdb
+E:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\bin\Debug\Memoria.exe
+E:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\bin\Debug\Memoria.pdb
+E:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.Form1.resources
+E:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.NomeJogador.resources
+E:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.Properties.Resources.resources
+E:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.Recorde.resources
+E:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.csproj.GenerateResource.Cache
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.exe
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.pdb
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\bin\Debug\Memoria.exe
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\bin\Debug\Memoria.pdb
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.csprojResolveAssemblyReference.cache
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.Form1.resources
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.NomeJogador.resources
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.Properties.Resources.resources
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.Recorde.resources
+G:\Programas em C# asp.net\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.csproj.GenerateResource.Cache
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\bin\Debug\Memoria.exe
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\bin\Debug\Memoria.pdb
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.csprojAssemblyReference.cache
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.Form1.resources
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.Properties.Resources.resources
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.csproj.GenerateResource.cache
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.exe
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.pdb
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\bin\Debug\Newtonsoft.Json.dll
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\bin\Debug\Newtonsoft.Json.xml
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\obj\x86\Debug\Memoria.csproj.CopyComplete
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\bin\Debug\System.ValueTuple.dll
+D:\Desenvolvimento\Programas em C# asp.net\Memoria\Memoria\bin\Debug\System.ValueTuple.xml

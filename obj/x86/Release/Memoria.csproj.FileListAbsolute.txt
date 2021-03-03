@@ -1,0 +1,9 @@
+C:\Users\Doctus_04\Documents\Visual Studio 2010\Projects\Memoria\Memoria\bin\Release\Memoria.exe
+C:\Users\Doctus_04\Documents\Visual Studio 2010\Projects\Memoria\Memoria\bin\Release\Memoria.pdb
+C:\Users\Doctus_04\Documents\Visual Studio 2010\Projects\Memoria\Memoria\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Doctus_04\Documents\Visual Studio 2010\Projects\Memoria\Memoria\obj\x86\Release\Memoria.Form1.resources
+C:\Users\Doctus_04\Documents\Visual Studio 2010\Projects\Memoria\Memoria\obj\x86\Release\Memoria.Properties.Resources.resources
+C:\Users\Doctus_04\Documents\Visual Studio 2010\Projects\Memoria\Memoria\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Doctus_04\Documents\Visual Studio 2010\Projects\Memoria\Memoria\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Doctus_04\Documents\Visual Studio 2010\Projects\Memoria\Memoria\obj\x86\Release\Memoria.exe
+C:\Users\Doctus_04\Documents\Visual Studio 2010\Projects\Memoria\Memoria\obj\x86\Release\Memoria.pdb
