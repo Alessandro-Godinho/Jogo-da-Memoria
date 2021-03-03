@@ -101,7 +101,7 @@
             this.btnnovojogo.Name = "btnnovojogo";
             this.btnnovojogo.Size = new System.Drawing.Size(75, 41);
             this.btnnovojogo.TabIndex = 4;
-            this.btnnovojogo.Text = "NOVO";
+            this.btnnovojogo.Text = "Novo / Embaralhar";
             this.btnnovojogo.UseVisualStyleBackColor = true;
             this.btnnovojogo.Click += new System.EventHandler(this.btnnovojogo_Click);
             // 

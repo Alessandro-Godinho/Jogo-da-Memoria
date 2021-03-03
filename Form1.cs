@@ -24,9 +24,9 @@ namespace Memoria
         public Form1()
         {
             InitializeComponent();
-
+            //adicionando minha paleta de cores a lista
             PreencherCores();
-            
+            //adiconando os botoes e os botoes de cores que serão referenciadas
             foreach(var botao in  this.Controls)
             {
                 if(botao is Button)
@@ -48,6 +48,7 @@ namespace Memoria
                 Colors.Add(cor);
             }
         }
+        //criando o sorteio aleatoriamente e adicionando a cor ao botao
         public void Sorteio(ArrayList caixa)
         {
             while (Colors.Count > 0)
@@ -119,7 +120,7 @@ namespace Memoria
 
             PreencherCores();
         }
-
+        // sorteio randomico das 10 cores da paleta
         private Cores.Cor Sortear()
         {
             Random rand = new Random();
@@ -127,7 +128,8 @@ namespace Memoria
             Cores.Cor cor = (Cores.Cor)rand.Next(10);
             return cor;
         }
-        
+        //verificacao dos pares clicados se tem a mesma cor e adicionando e subtraindo 
+        // pontuações de acordo com acerto ou erro e por fim opção de reiniciar o jogo.
         public void Verificacao(Color cor)
         {
             btnnovojogo.Enabled = false;
