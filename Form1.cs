@@ -164,11 +164,9 @@ namespace Memoria
                 {
                     if (MessageBox.Show("Você Fez " + lblponto.Text + " Pontos! Deseja Jogar Novamente?","Reiniciar Jogo", MessageBoxButtons.YesNo) == DialogResult.Yes)
                     {
-                        foreach (Button botao in Botoes)
-                        {
-                            botao.Show();
-                        }
+                       
                         btnnovojogo.Enabled = true;
+                        MostrarBotoes();
                         Reiniciar();
 
                     }
@@ -183,9 +181,9 @@ namespace Memoria
 
         public void MostrarBotoes()
         {
-            for (int i = 0; i < Botoes.Count; i++)
+            foreach (Button botao in Botoes)
             {
-                Botoes[i].Show();
+                botao.Show();
             }
         }
 
