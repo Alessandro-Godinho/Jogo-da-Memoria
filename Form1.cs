@@ -166,7 +166,6 @@ namespace Memoria
                     {
                        
                         btnnovojogo.Enabled = true;
-                        MostrarBotoes();
                         Reiniciar();
 
                     }
